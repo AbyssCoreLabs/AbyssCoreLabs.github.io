@@ -1,5 +1,5 @@
 [33mcommit 95ac77154075816318f0fe40ce4be8e7c50d3ddf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: 955928 <145359084+955928@users.noreply.github.com>
+Author: AbyssCoreLabs <145359084+AbyssCoreLabs@users.noreply.github.com>
 Date:   Tue Jul 7 23:24:22 2026 +0200
 
     Publish Superstore Power BI blog
@@ -31,7 +31,7 @@ Date:   Tue Jul 7 23:24:22 2026 +0200
  24 files changed, 292 insertions(+), 17 deletions(-)
 
 [33mcommit 04cd36dc54655af2cc02e0defebeaf6fa3c61acb[m
-Author: Djo_Chath <145359084+955928@users.noreply.github.com>
+Author: Djo_Chath <145359084+AbyssCoreLabs@users.noreply.github.com>
 Date:   Thu May 28 14:20:30 2026 +0200
 
     adding personal username
@@ -40,7 +40,7 @@ Date:   Thu May 28 14:20:30 2026 +0200
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 [33mcommit 3ebdc5d0a4118e3314558d95485b92be14c3d012[m
-Author: Djo_Chath <145359084+955928@users.noreply.github.com>
+Author: Djo_Chath <145359084+AbyssCoreLabs@users.noreply.github.com>
 Date:   Thu May 28 14:18:49 2026 +0200
 
     Initial commit
